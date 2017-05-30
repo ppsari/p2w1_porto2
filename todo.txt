@@ -1,0 +1,21 @@
+1. routes
+2. model
+- get user_id:
+ + createMemo
+ + findUserMemos
+ + updateUserMemo
+3. controller
+- login
+- user
+- memo
+4. helper
+- getUserId
+- assign user with menu
+- createToken
+- getUserDetail
+- ajax
+5. view
+- datatables -> pagination ajax
+6. app.use cek validasi page
+
+validasi memoid itu punya si user itu
